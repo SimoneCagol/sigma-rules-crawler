@@ -1,4 +1,4 @@
-| # | Title|Description|Path|Date|Link|
+|#| Title|Description|Path|Date|Link|
 | ------ | ------ | ------ | ------ | ------ | ------ |
 |1|Suspicious SQL Error Messages|Detects SQL error messages that indicate probing for an injection attack|application|2017/11/27|[app_sqlinjection_errors.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./application/app_sqlinjection_errors.yml)|
 |2|Django Framework Exceptions|Detects suspicious Django web application framework exceptions that could indicate exploitation attempts|application|2017/08/05|[appframework_django_exceptions.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./application/appframework_django_exceptions.yml)|
