@@ -2,6 +2,9 @@
 Within this project you will find the complete list of detection rules present within the Sigma Rule project. The list is automatically updated several times a day.
 The list can be useful for those who need to search for and activate the detection rules based on the technologies present within their infrastructure.
 
+The last rule was uploaded / updated on:
+The total of the rules present is:
+
 Below we show the number of rules present divided by categories:
 - 5 application
 - 2 apt
