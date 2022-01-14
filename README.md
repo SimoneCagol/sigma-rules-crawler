@@ -4,7 +4,7 @@ The list can be useful for those who need to search for and activate the detecti
 
 
 ###### The last rule was uploaded / updated on:
-2022/01/13
+2022/02/02
 ###### The total of the rules present is:
 1677
 ###### Below we show the number of rules present divided by categories:
