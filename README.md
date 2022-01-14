@@ -3,6 +3,7 @@ Within this project you will find the complete list of detection rules present w
 The list can be useful for those who need to search for and activate the detection rules based on the technologies present within their infrastructure.
 
 The last rule was uploaded / updated on:
+
 The total of the rules present is:
 
 Below we show the number of rules present divided by categories:
