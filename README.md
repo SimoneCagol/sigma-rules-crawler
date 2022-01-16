@@ -4,7 +4,7 @@ The list can be useful for those who need to search for and activate the detecti
 
 
 ###### The last rule was uploaded / updated on:
-2022/01/14
+2022/01/16
 ###### The total of the rules present is:
 1677
 ###### Below we show the number of rules present divided by categories:
@@ -35,7 +35,7 @@ The list can be useful for those who need to search for and activate the detecti
 - 51 web
 - 1 windows/builtin
 - 7 windows/builtin/application
-- 135 windows/builtin/security
+- 136 windows/builtin/security
 - 39 windows/builtin/system
 - 7 windows/create_remote_thread
 - 2 windows/create_stream_hash
@@ -44,7 +44,7 @@ The list can be useful for those who need to search for and activate the detecti
 - 6 windows/driver_load
 - 1 windows/edr
 - 4 windows/file_delete
-- 67 windows/file_event
+- 66 windows/file_event
 - 36 windows/image_load
 - 16 windows/malware
 - 20 windows/network_connection
