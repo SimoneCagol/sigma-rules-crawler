@@ -6,7 +6,7 @@ The list can be useful for those who need to search for and activate the detecti
 ###### The last rule was uploaded / updated on:
 2022/01/16
 ###### The total of the rules present is:
-1679
+1691
 ###### Below we show the number of rules present divided by categories:
 - 5 application
 - 2 apt
@@ -43,11 +43,11 @@ The list can be useful for those who need to search for and activate the detecti
 - 7 windows/dns_query
 - 6 windows/driver_load
 - 1 windows/edr
-- 4 windows/file_delete
+- 5 windows/file_delete
 - 66 windows/file_event
 - 36 windows/image_load
 - 16 windows/malware
-- 20 windows/network_connection
+- 21 windows/network_connection
 - 1 windows/other/applocker
 - 2 windows/other/dns_server
 - 1 windows/other/driverframeworks
@@ -63,10 +63,10 @@ The list can be useful for those who need to search for and activate the detecti
 - 13 windows/pipe_created
 - 14 windows/powershell/powershell_classic
 - 28 windows/powershell/powershell_module
-- 95 windows/powershell/powershell_script
+- 98 windows/powershell/powershell_script
 - 18 windows/process_access
-- 605 windows/process_creation
+- 611 windows/process_creation
 - 1 windows/raw_access_thread
-- 110 windows/registry_event
+- 111 windows/registry_event
 - 5 windows/sysmon
 - 3 windows/wmi_event
