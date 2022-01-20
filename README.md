@@ -4,9 +4,9 @@ The list can be useful for those who need to search for and activate the detecti
 
 
 ###### The last rule was uploaded / updated on:
-2022/01/19
+2022/01/20
 ###### The total of the rules present is:
-1691
+1692
 ###### Below we show the number of rules present divided by categories:
 - 5 application
 - 2 apt
@@ -49,6 +49,7 @@ The list can be useful for those who need to search for and activate the detecti
 - 16 windows/malware
 - 21 windows/network_connection
 - 1 windows/other/applocker
+- 1 windows/other/code_integrity
 - 2 windows/other/dns_server
 - 1 windows/other/driverframeworks
 - 1 windows/other/ldap
