@@ -6,9 +6,13 @@ The list can be useful for those who need to search for and activate the detecti
 ###### The last rule was uploaded / updated on:
 2022/01/20
 ###### The total of the rules present is:
-1692
+1694
 ###### Below we show the number of rules present divided by categories:
-- 5 application
+- 1 application/django
+- 1 application/python
+- 1 application/ruby
+- 1 application/spring
+- 1 application/sql
 - 2 apt
 - 30 cloud/aws
 - 50 cloud/azure
@@ -64,7 +68,7 @@ The list can be useful for those who need to search for and activate the detecti
 - 13 windows/pipe_created
 - 14 windows/powershell/powershell_classic
 - 28 windows/powershell/powershell_module
-- 98 windows/powershell/powershell_script
+- 100 windows/powershell/powershell_script
 - 18 windows/process_access
 - 611 windows/process_creation
 - 1 windows/raw_access_thread
