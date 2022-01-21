@@ -6,7 +6,7 @@ The list can be useful for those who need to search for and activate the detecti
 ###### The last rule was uploaded / updated on:
 2022/01/21
 ###### The total of the rules present is:
-1695
+1697
 ###### Below we show the number of rules present divided by categories:
 - 6 application/antivirus
 - 1 application/django
@@ -27,13 +27,13 @@ The list can be useful for those who need to search for and activate the detecti
 - 1 generic
 - 44 linux/auditd
 - 19 linux/builtin
-- 1 linux/file_create
+- 2 linux/file_create
 - 2 linux/macos/file_event
 - 28 linux/macos/process_creation
 - 1 linux/modsecurity
 - 2 linux/network_connection
 - 8 linux/other
-- 24 linux/process_creation
+- 25 linux/process_creation
 - 16 network
 - 12 network/cisco/aaa
 - 21 network/zeek
@@ -41,8 +41,21 @@ The list can be useful for those who need to search for and activate the detecti
 - 51 web
 - 1 windows/builtin
 - 7 windows/builtin/application
+- 1 windows/builtin/applocker
+- 1 windows/builtin/code_integrity
+- 2 windows/builtin/dns_server
+- 1 windows/builtin/driverframeworks
+- 1 windows/builtin/ldap
+- 8 windows/builtin/msexchange
+- 2 windows/builtin/ntlm
+- 2 windows/builtin/printservice
 - 136 windows/builtin/security
+- 1 windows/builtin/servicebus
+- 1 windows/builtin/smbclient
 - 39 windows/builtin/system
+- 1 windows/builtin/taskscheduler
+- 8 windows/builtin/windefend
+- 1 windows/builtin/wmi
 - 7 windows/create_remote_thread
 - 2 windows/create_stream_hash
 - 10 windows/deprecated
@@ -52,19 +65,6 @@ The list can be useful for those who need to search for and activate the detecti
 - 68 windows/file_event
 - 36 windows/image_load
 - 21 windows/network_connection
-- 1 windows/other/applocker
-- 1 windows/other/code_integrity
-- 2 windows/other/dns_server
-- 1 windows/other/driverframeworks
-- 1 windows/other/ldap
-- 8 windows/other/msexchange
-- 2 windows/other/ntlm
-- 2 windows/other/printservice
-- 1 windows/other/servicebus
-- 1 windows/other/smbclient
-- 1 windows/other/taskscheduler
-- 8 windows/other/windefend
-- 1 windows/other/wmi
 - 13 windows/pipe_created
 - 14 windows/powershell/powershell_classic
 - 28 windows/powershell/powershell_module
