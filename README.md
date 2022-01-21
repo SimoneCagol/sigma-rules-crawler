@@ -4,11 +4,13 @@ The list can be useful for those who need to search for and activate the detecti
 
 
 ###### The last rule was uploaded / updated on:
-2022/01/20
+2022/01/21
 ###### The total of the rules present is:
-1694
+1695
 ###### Below we show the number of rules present divided by categories:
+- 6 application/antivirus
 - 1 application/django
+- 1 application/edr/windows
 - 1 application/python
 - 1 application/ruby
 - 1 application/spring
@@ -46,11 +48,9 @@ The list can be useful for those who need to search for and activate the detecti
 - 10 windows/deprecated
 - 7 windows/dns_query
 - 6 windows/driver_load
-- 1 windows/edr
 - 5 windows/file_delete
-- 66 windows/file_event
+- 68 windows/file_event
 - 36 windows/image_load
-- 16 windows/malware
 - 21 windows/network_connection
 - 1 windows/other/applocker
 - 1 windows/other/code_integrity
@@ -70,8 +70,8 @@ The list can be useful for those who need to search for and activate the detecti
 - 28 windows/powershell/powershell_module
 - 100 windows/powershell/powershell_script
 - 18 windows/process_access
-- 611 windows/process_creation
+- 615 windows/process_creation
 - 1 windows/raw_access_thread
-- 111 windows/registry_event
+- 116 windows/registry_event
 - 5 windows/sysmon
 - 3 windows/wmi_event
