@@ -1,5 +1,6 @@
 |Title|Description|Path|Date|Link|
 | ------ | ------ | ------ | ------ | ------ |
+|Disable System Firewall|Detects disabling of system firewalls which could be used by adversaries to bypass controls that limit usage of the network.|linux/auditd|2022/01/22|[lnx_auditd_disable_system_firewall.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./linux/auditd/lnx_auditd_disable_system_firewall.yml)|
 |Suspicious Creation with Colorcpl|Once executed, colorcpl.exe will copy the arbitrary file to c:\windows\system32\spool\drivers\color\|windows/file_event|2022/01/21|[win_fe_susp_colorcpl.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/file_event/win_fe_susp_colorcpl.yml)|
 |Code Integrity Blocked Driver Load|Detects driver load events that got blocked by Windows code integrity checks|windows/builtin/code_integrity|2022/01/20|[win_codeintegrity_failed_driver_load.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/builtin/code_integrity/win_codeintegrity_failed_driver_load.yml)|
 |Linux Doas Tool Execution|Detects the doas tool execution in linux host platform.|linux/process_creation|2022/01/20|[lnx_doas_execution.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./linux/process_creation/lnx_doas_execution.yml)|

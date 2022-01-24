@@ -4,9 +4,9 @@ The list can be useful for those who need to search for and activate the detecti
 
 
 ###### The last rule was uploaded / updated on:
-2022/01/21
+2022/01/22
 ###### The total of the rules present is:
-1697
+1698
 ###### Below we show the number of rules present divided by categories:
 - 6 application/antivirus
 - 1 application/django
@@ -25,7 +25,7 @@ The list can be useful for those who need to search for and activate the detecti
 - 2 cloud/onelogin
 - 6 compliance
 - 1 generic
-- 44 linux/auditd
+- 45 linux/auditd
 - 19 linux/builtin
 - 2 linux/file_create
 - 2 linux/macos/file_event
