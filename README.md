@@ -4,9 +4,9 @@ The list can be useful for those who need to search for and activate the detecti
 
 
 ###### The last rule was uploaded / updated on:
-2022/01/22
+2022/01/24
 ###### The total of the rules present is:
-1698
+1700
 ###### Below we show the number of rules present divided by categories:
 - 6 application/antivirus
 - 1 application/django
@@ -70,7 +70,7 @@ The list can be useful for those who need to search for and activate the detecti
 - 28 windows/powershell/powershell_module
 - 100 windows/powershell/powershell_script
 - 18 windows/process_access
-- 615 windows/process_creation
+- 617 windows/process_creation
 - 1 windows/raw_access_thread
 - 116 windows/registry_event
 - 5 windows/sysmon
