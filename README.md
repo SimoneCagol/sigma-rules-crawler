@@ -6,12 +6,13 @@ The list can be useful for those who need to search for and activate the detecti
 ###### The last rule was uploaded / updated on:
 2022/01/24
 ###### The total of the rules present is:
-1700
+1717
 ###### Below we show the number of rules present divided by categories:
 - 6 application/antivirus
 - 1 application/django
 - 1 application/edr/windows
 - 1 application/python
+- 17 application/rpc_firewall
 - 1 application/ruby
 - 1 application/spring
 - 1 application/sql
