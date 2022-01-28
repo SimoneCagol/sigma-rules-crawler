@@ -2,6 +2,8 @@
 Within this project you will find the complete list of detection rules present within the Sigma Rule (https://github.com/SigmaHQ/sigma) project. The list is automatically updated several times a day.
 The list can be useful for those who need to search for and activate the detection rules based on the technologies present within their infrastructure.
 
+The project also performs a translation of the detection rules from the Sigma format to the Elastic Rule format. The rule thus translated, in ndjson format, can be imported directly from the Kibana GUI (Secuirty - Rules - Import rules).
+
 
 ###### The last rule was uploaded / updated on:
 2022/01/28
