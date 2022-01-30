@@ -1,5 +1,6 @@
 |Title|Description|Path|Date|Link|
 | ------ | ------ | ------ | ------ | ------ |
+|Suspicious Recursif Takeown|Adversaries can interact with the DACLs using built-in Windows commands takeown which can grant adversaries higher permissions on specific files and folders|windows|2022/01/30|[win_pc_susp_takeown.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/win_pc_susp_takeown.yml)|
 |LSASS Memory Dump|Detects process LSASS memory dump using Mimikatz, NanoDump, Invoke-Mimikatz, Procdump or Taskmgr based on the CallTrace pointing to ntdll.dll, dbghelp.dll or dbgcore.dll for win10, server2016 and up.|windows/process_access|2022/01/29|[sysmon_lsass_memdump.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/process_access/sysmon_lsass_memdump.yml)|
 |XORDump Use|Detects suspicious use of XORDump process memory dumping utility|windows/process_creation|2022/01/28|[win_xordump.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/process_creation/win_xordump.yml)|
 |Run Whoami as SYSTEM|Detects a whoami.exe executed by LOCAL SYSTEM. This may be a sign of a successful local privilege escalation.|windows/process_creation|2022/01/28|[win_whoami_as_system.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/process_creation/win_whoami_as_system.yml)|
