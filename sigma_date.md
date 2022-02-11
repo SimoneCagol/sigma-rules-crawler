@@ -1,5 +1,6 @@
 |Title|Description|Path|Date|Link|
 | ------ | ------ | ------ | ------ | ------ |
+|BPFtrace Unsafe Option Usage|Detects the usage of the unsafe bpftrace option|linux/process_creation|2022/02/11|[lnx_bpftrace_unsafe_option_usage.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./linux/process_creation/lnx_bpftrace_unsafe_option_usage.yml)|
 |WMI Persistence|Detects suspicious WMI event filter and command line event consumer based on WMI and Security Logs.|windows/builtin/wmi|2022/02/10|[win_wmi_persistence.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/builtin/wmi/win_wmi_persistence.yml)|
 |Process Access via TrolleyExpress Exclusion|Detects a possible process memory dump that uses the white-listed Citrix TrolleyExpress.exe filename as a way to dump the lsass process memory|windows/process_creation|2022/02/10|[win_susp_trolleyexpress_procdump.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/process_creation/win_susp_trolleyexpress_procdump.yml)|
 |Suspicious Execution of Powershell with Base64|Commandline to lauch powershell with a base64 payload|windows/process_creation|2022/02/10|[win_pc_susp_powershell_encode.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/process_creation/win_pc_susp_powershell_encode.yml)|
