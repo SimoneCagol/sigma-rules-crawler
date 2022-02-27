@@ -68,14 +68,14 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 windows/etw/file_rename
 - 5 windows/file_delete
 - 77 windows/file_event
-- 37 windows/image_load
+- 36 windows/image_load
 - 22 windows/network_connection
 - 13 windows/pipe_created
 - 14 windows/powershell/powershell_classic
 - 29 windows/powershell/powershell_module
 - 110 windows/powershell/powershell_script
 - 20 windows/process_access
-- 659 windows/process_creation
+- 660 windows/process_creation
 - 1 windows/raw_access_thread
 - 123 windows/registry_event
 - 6 windows/sysmon
