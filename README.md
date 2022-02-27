@@ -8,7 +8,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 ###### The last rule was uploaded / updated on:
 2022/02/26
 ###### The total of the rules present is:
-1809
+1810
 ###### Below we show the number of rules present divided by categories:
 - 6 application/antivirus
 - 1 application/django
@@ -77,6 +77,6 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 20 windows/process_access
 - 659 windows/process_creation
 - 1 windows/raw_access_thread
-- 122 windows/registry_event
+- 123 windows/registry_event
 - 6 windows/sysmon
 - 3 windows/wmi_event
