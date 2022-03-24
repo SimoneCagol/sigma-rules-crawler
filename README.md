@@ -8,11 +8,10 @@ The project also performs a translation of the detection rules from the Sigma fo
 ###### The last rule was uploaded / updated on:
 2022/03/24
 ###### The total of the rules present is:
-1865
+1864
 ###### Below we show the number of rules present divided by categories:
 - 6 application/antivirus
 - 1 application/django
-- 1 application/edr/windows
 - 1 application/python
 - 17 application/rpc_firewall
 - 1 application/ruby
@@ -31,12 +30,12 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 47 linux/auditd
 - 20 linux/builtin
 - 2 linux/file_create
-- 2 linux/macos/file_event
-- 28 linux/macos/process_creation
 - 1 linux/modsecurity
 - 2 linux/network_connection
 - 8 linux/other
 - 28 linux/process_creation
+- 2 macos/file_event
+- 28 macos/process_creation
 - 16 network
 - 12 network/cisco/aaa
 - 21 network/zeek
