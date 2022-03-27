@@ -77,9 +77,9 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 22 windows/process_access
 - 687 windows/process_creation
 - 1 windows/raw_access_thread
-- 3 windows/registry_add
+- 6 windows/registry_add
 - 3 windows/registry_delete
-- 54 windows/registry_event
-- 67 windows/registry_set
+- 39 windows/registry_event
+- 79 windows/registry_set
 - 6 windows/sysmon
 - 3 windows/wmi_event
