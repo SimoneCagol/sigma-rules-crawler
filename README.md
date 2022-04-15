@@ -52,7 +52,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 8 windows/builtin/msexchange
 - 3 windows/builtin/ntlm
 - 2 windows/builtin/printservice
-- 136 windows/builtin/security
+- 134 windows/builtin/security
 - 1 windows/builtin/servicebus
 - 1 windows/builtin/smbclient
 - 44 windows/builtin/system
@@ -74,7 +74,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 30 windows/powershell/powershell_module
 - 119 windows/powershell/powershell_script
 - 22 windows/process_access
-- 696 windows/process_creation
+- 698 windows/process_creation
 - 1 windows/raw_access_thread
 - 6 windows/registry/registry_add
 - 3 windows/registry/registry_delete
