@@ -1,5 +1,6 @@
 |Title|Description|Path|Date|Link|
 | ------ | ------ | ------ | ------ | ------ |
+|KeePass Password Dumping|Detects remote thread creation in KeePass.exe indicating password dumping activity|windows/create_remote_thread|2022/04/22|[sysmon_password_dumper_keepass.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/create_remote_thread/sysmon_password_dumper_keepass.yml)|
 |New Kind of Network (NKN) Detection|NKN is a networking service using blockchain technology to support a decentralized network of peers. While there are legitimate uses for it, it can also be used as a C2 channel. This rule looks for a DNS request to the ma>|network/zeek|2022/04/21|[zeek_dns_nkn.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./network/zeek/zeek_dns_nkn.yml)|
 |New TaskCache Entry|Monitor the creation of a new key under 'TaskCache' when a new scheduled task is registered|windows/registry/registry_set|2022/04/21|[registry_set_taskcache_entry.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/registry/registry_set/registry_set_taskcache_entry.yml)|
 |ServiceDll Modification|Detects the modification of a ServiceDLL value in the service settings|windows/registry/registry_set|2022/04/21|[registry_set_set_servicedll.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/registry/registry_set/registry_set_set_servicedll.yml)|
