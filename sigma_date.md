@@ -1,5 +1,6 @@
 |Title|Description|Path|Date|Link|
 | ------ | ------ | ------ | ------ | ------ |
+|Renamed Msdt.exe|Detects process creation with a renamed Msdt.exe|windows/process_creation|2022/06/03|[proc_creation_win_renamed_msdt.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/process_creation/proc_creation_win_renamed_msdt.yml)|
 |Python Spawning Pretty TTY on Windows|Detects python spawning a pretty tty|windows/process_creation|2022/06/03|[proc_creation_win_python_pty_spawn.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/process_creation/proc_creation_win_python_pty_spawn.yml)|
 |Linux Webshell Indicators|Detects suspicious sub processes of web server processes|linux/process_creation|2022/06/03|[proc_creation_lnx_webshell_detection.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./linux/process_creation/proc_creation_lnx_webshell_detection.yml)|
 |Suspicious Java Children Processes|Detects java process spawning suspicious children|linux/process_creation|2022/06/03|[proc_creation_lnx_susp_java_children.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./linux/process_creation/proc_creation_lnx_susp_java_children.yml)|
