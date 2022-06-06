@@ -1,5 +1,6 @@
 |Title|Description|Path|Date|Link|
 | ------ | ------ | ------ | ------ | ------ |
+|Creation In User Word Statup Folder|Detects the creation of an file in user Word Startup|windows/file_event|2022/06/05|[file_event_win_susp_winword_startup.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/file_event/file_event_win_susp_winword_startup.yml)|
 |Java Payload String|Detects possible Java payload in web access logs|web|2022/06/04|[web_java_in_access_log.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./web/web_java_in_access_log.yml)|
 |Classes Autorun Keys Modification|Detects modification of autostart extensibility point (ASEP) in registry.|windows/registry/registry_set|2022/06/04|[registry_set_asep_reg_keys_modification_classes.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/registry/registry_set/registry_set_asep_reg_keys_modification_classes.yml)|
 |Process Start From Suspicious Folder|Detects process start from rare or uncommon folders like temporary folder or folders that usually don't contain executable files|windows/process_creation|2022/06/04|[proc_creation_win_susp_run_folder.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/process_creation/proc_creation_win_susp_run_folder.yml)|
