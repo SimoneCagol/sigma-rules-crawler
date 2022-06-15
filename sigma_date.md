@@ -1,5 +1,6 @@
 |Title|Description|Path|Date|Link|
 | ------ | ------ | ------ | ------ | ------ |
+|Scripted Diagnostics Turn Off Check Enabled - Registry|Detects enabling TurnOffCheck which can be used to bypass defense of MSDT Follina vulnerability|windows/registry/registry_set|2022/06/15|[registry_set_enabling_turnoffcheck.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/registry/registry_set/registry_set_enabling_turnoffcheck.yml)|
 |Cross Site Scripting Strings|Detects XSS attempts injected via GET requests in access logs|web|2022/06/14|[web_xss_in_access_logs.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./web/web_xss_in_access_logs.yml)|
 |Windows Webshell Strings|Detects Windows Webshells that use GET requests via access logs|web|2022/06/14|[web_win_webshells_in_access_logs.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./web/web_win_webshells_in_access_logs.yml)|
 |Server Side Template Injection Strings|Detects SSTI attempts sent via GET requests in access logs|web|2022/06/14|[web_ssti_in_access_logs.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./web/web_ssti_in_access_logs.yml)|
