@@ -8,7 +8,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 ###### The last rule was uploaded / updated on:
 2022/06/22
 ###### The total of the rules present is:
-2010
+2015
 ###### Below we show the number of rules present divided by categories:
 - 7 application/antivirus
 - 1 application/django
@@ -32,7 +32,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 linux/modsecurity
 - 2 linux/network_connection
 - 8 linux/other
-- 33 linux/process_creation
+- 37 linux/process_creation
 - 2 macos/file_event
 - 28 macos/process_creation
 - 12 network/cisco/aaa
@@ -81,6 +81,6 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 6 windows/registry/registry_add
 - 4 windows/registry/registry_delete
 - 38 windows/registry/registry_event
-- 92 windows/registry/registry_set
+- 93 windows/registry/registry_set
 - 6 windows/sysmon
 - 3 windows/wmi_event
