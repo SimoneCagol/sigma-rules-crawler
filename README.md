@@ -8,7 +8,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 ###### The last rule was uploaded / updated on:
 2022/08/05
 ###### The total of the rules present is:
-2162
+2171
 ###### Below we show the number of rules present divided by categories:
 - 7 application/antivirus
 - 1 application/django
@@ -19,7 +19,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 application/sql
 - 2 apt
 - 31 cloud/aws
-- 87 cloud/azure
+- 88 cloud/azure
 - 14 cloud/gcp
 - 6 cloud/gworkspace
 - 13 cloud/m365
@@ -60,7 +60,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 51 windows/builtin/system
 - 1 windows/builtin/taskscheduler
 - 1 windows/builtin/terminalservices
-- 8 windows/builtin/windefend
+- 9 windows/builtin/windefend
 - 1 windows/builtin/wmi
 - 10 windows/create_remote_thread
 - 2 windows/create_stream_hash
@@ -68,20 +68,20 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 10 windows/driver_load
 - 1 windows/file_access
 - 5 windows/file_delete
-- 100 windows/file_event
+- 101 windows/file_event
 - 2 windows/file_rename
 - 40 windows/image_load
 - 29 windows/network_connection
-- 15 windows/pipe_created
+- 16 windows/pipe_created
 - 14 windows/powershell/powershell_classic
 - 30 windows/powershell/powershell_module
-- 125 windows/powershell/powershell_script
+- 126 windows/powershell/powershell_script
 - 25 windows/process_access
-- 819 windows/process_creation
+- 821 windows/process_creation
 - 1 windows/raw_access_thread
 - 8 windows/registry/registry_add
-- 4 windows/registry/registry_delete
+- 5 windows/registry/registry_delete
 - 38 windows/registry/registry_event
-- 113 windows/registry/registry_set
+- 114 windows/registry/registry_set
 - 6 windows/sysmon
 - 3 windows/wmi_event
