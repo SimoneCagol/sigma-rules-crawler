@@ -8,7 +8,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 ###### The last rule was uploaded / updated on:
 2022/08/08
 ###### The total of the rules present is:
-2174
+2175
 ###### Below we show the number of rules present divided by categories:
 - 7 application/antivirus
 - 1 application/django
@@ -19,7 +19,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 application/sql
 - 2 apt
 - 31 cloud/aws
-- 89 cloud/azure
+- 90 cloud/azure
 - 14 cloud/gcp
 - 6 cloud/gworkspace
 - 13 cloud/m365
