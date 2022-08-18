@@ -6,9 +6,9 @@ The project also performs a translation of the detection rules from the Sigma fo
 
 
 ###### The last rule was uploaded / updated on:
-2022/08/17
+2022/08/18
 ###### The total of the rules present is:
-2213
+2214
 ###### Below we show the number of rules present divided by categories:
 - 7 application/antivirus
 - 1 application/django
@@ -40,7 +40,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 5 network/firewall
 - 22 network/zeek
 - 33 proxy
-- 58 web
+- 59 web
 - 2 windows/builtin
 - 15 windows/builtin/application
 - 1 windows/builtin/applocker
