@@ -6,9 +6,9 @@ The project also performs a translation of the detection rules from the Sigma fo
 
 
 ###### The last rule was uploaded / updated on:
-2022/09/14
+2022/09/16
 ###### The total of the rules present is:
-2334
+2342
 ###### Below we show the number of rules present divided by categories:
 - 7 application/antivirus
 - 1 application/django
@@ -32,7 +32,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 linux/modsecurity
 - 2 linux/network_connection
 - 8 linux/other
-- 41 linux/process_creation
+- 48 linux/process_creation
 - 2 macos/file_event
 - 28 macos/process_creation
 - 12 network/cisco/aaa
@@ -58,7 +58,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 2 windows/builtin/security_mitigations
 - 1 windows/builtin/servicebus
 - 1 windows/builtin/shell_core
-- 1 windows/builtin/smbclient
+- 2 windows/builtin/smbclient
 - 55 windows/builtin/system
 - 1 windows/builtin/taskscheduler
 - 1 windows/builtin/terminalservices
