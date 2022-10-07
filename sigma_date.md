@@ -1,5 +1,6 @@
 |Title|Description|Path|Date|Link|
 | ------ | ------ | ------ | ------ | ------ |
+|Local Privilege Escalation Indicator TabTip|Detects the invocation of TabTip via CLSID as seen when JuicyPotatoNG is used on a system in brute force mode|windows/builtin/system|2022/10/07|[win_lpe_indicators_tabtip.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/builtin/system/win_lpe_indicators_tabtip.yml)|
 |Exchange ProxyShell Pattern|Detects URL patterns that could be found in ProxyShell exploitation attempts against Exchange servers (failed and successful)|web|2022/10/06|[web_exchange_proxyshell.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./web/web_exchange_proxyshell.yml)|
 |Powershell in Windows Run Keys|Adds a RUN key that contains a powershell keyword|windows/registry/registry_set|2022/10/06|[registry_set_powershell_in_run_keys.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/registry/registry_set/registry_set_powershell_in_run_keys.yml)|
 |SMB Relay Attack Tools|Detects different hacktools used for relay attacks on Windows for privilege escalation|windows/process_creation|2022/10/06|[proc_creation_win_tools_relay_attacks.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/process_creation/proc_creation_win_tools_relay_attacks.yml)|
