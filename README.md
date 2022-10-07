@@ -27,12 +27,12 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 2 cloud/onelogin
 - 6 compliance
 - 50 linux/auditd
-- 22 linux/builtin
+- 19 linux/builtin
 - 5 linux/file_create
 - 1 linux/modsecurity
 - 2 linux/network_connection
 - 8 linux/other
-- 48 linux/process_creation
+- 51 linux/process_creation
 - 2 macos/file_event
 - 28 macos/process_creation
 - 12 network/cisco/aaa
