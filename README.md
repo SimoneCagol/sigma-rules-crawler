@@ -6,9 +6,9 @@ The project also performs a translation of the detection rules from the Sigma fo
 
 
 ###### The last rule was uploaded / updated on:
-2022/10/10
+2022/10/12
 ###### The total of the rules present is:
-2387
+2410
 ###### Below we show the number of rules present divided by categories:
 - 7 application/antivirus
 - 1 application/django
@@ -42,7 +42,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 34 proxy
 - 60 web
 - 1 windows/builtin
-- 16 windows/builtin/application
+- 17 windows/builtin/application
 - 1 windows/builtin/applocker
 - 6 windows/builtin/bits_client
 - 1 windows/builtin/code_integrity
@@ -54,12 +54,12 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 8 windows/builtin/msexchange
 - 3 windows/builtin/ntlm
 - 2 windows/builtin/printservice
-- 137 windows/builtin/security
+- 138 windows/builtin/security
 - 2 windows/builtin/security_mitigations
 - 1 windows/builtin/servicebus
 - 1 windows/builtin/shell_core
 - 2 windows/builtin/smbclient
-- 56 windows/builtin/system
+- 57 windows/builtin/system
 - 1 windows/builtin/taskscheduler
 - 1 windows/builtin/terminalservices
 - 9 windows/builtin/windefend
@@ -69,8 +69,8 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 13 windows/dns_query
 - 13 windows/driver_load
 - 1 windows/file_access
-- 1 windows/file_change
-- 5 windows/file_delete
+- 2 windows/file_change
+- 7 windows/file_delete
 - 117 windows/file_event
 - 2 windows/file_rename
 - 48 windows/image_load
@@ -78,9 +78,9 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 16 windows/pipe_created
 - 14 windows/powershell/powershell_classic
 - 30 windows/powershell/powershell_module
-- 135 windows/powershell/powershell_script
+- 138 windows/powershell/powershell_script
 - 26 windows/process_access
-- 926 windows/process_creation
+- 940 windows/process_creation
 - 1 windows/raw_access_thread
 - 10 windows/registry/registry_add
 - 6 windows/registry/registry_delete
