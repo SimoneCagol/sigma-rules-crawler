@@ -67,8 +67,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 6 windows/create_stream_hash
 - 13 windows/dns_query
 - 13 windows/driver_load
-- 1 windows/file_access
-- 1 windows/file/file_access
+- 2 windows/file/file_access
 - 2 windows/file/file_change
 - 7 windows/file/file_delete
 - 117 windows/file/file_event
