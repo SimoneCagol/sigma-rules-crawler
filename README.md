@@ -8,7 +8,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 ###### The last rule was uploaded / updated on:
 2022/10/25
 ###### The total of the rules present is:
-2435
+2436
 ###### Below we show the number of rules present divided by categories:
 - 7 application/antivirus
 - 1 application/django
@@ -52,6 +52,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 windows/builtin/ldap
 - 8 windows/builtin/msexchange
 - 3 windows/builtin/ntlm
+- 1 windows/builtin/openssh
 - 2 windows/builtin/printservice
 - 144 windows/builtin/security
 - 2 windows/builtin/security_mitigations
