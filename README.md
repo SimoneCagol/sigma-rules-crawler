@@ -6,9 +6,9 @@ The project also performs a translation of the detection rules from the Sigma fo
 
 
 ###### The last rule was uploaded / updated on:
-2022/10/31
+2022/11/01
 ###### The total of the rules present is:
-2459
+2460
 ###### Below we show the number of rules present divided by categories:
 - 7 application/antivirus
 - 1 application/django
@@ -73,7 +73,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 8 windows/file/file_delete
 - 119 windows/file/file_event
 - 2 windows/file/file_rename
-- 50 windows/image_load
+- 51 windows/image_load
 - 35 windows/network_connection
 - 17 windows/pipe_created
 - 14 windows/powershell/powershell_classic
