@@ -6,7 +6,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 
 
 ###### The last rule was uploaded / updated on:
-2022/12/31
+2023/01/02
 ###### The total of the rules present is:
 2577
 ###### Below we show the number of rules present divided by categories:
@@ -47,7 +47,8 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 6 windows/builtin/bits_client
 - 3 windows/builtin/code_integrity
 - 1 windows/builtin/diagnosis/scripted
-- 2 windows/builtin/dns_server
+- 1 windows/builtin/dns_server
+- 1 windows/builtin/dns_server_analytic
 - 1 windows/builtin/driverframeworks
 - 6 windows/builtin/firewall_as
 - 1 windows/builtin/ldap
