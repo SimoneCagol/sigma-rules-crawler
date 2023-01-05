@@ -6,7 +6,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 
 
 ###### The last rule was uploaded / updated on:
-2023/01/04
+2023/01/05
 ###### The total of the rules present is:
 2589
 ###### Below we show the number of rules present divided by categories:
@@ -27,11 +27,18 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 2 cloud/onelogin
 - 3 compliance
 - 52 linux/auditd
-- 20 linux/builtin
+- 17 linux/builtin
+- 2 linux/builtin/auth
+- 1 linux/builtin/clamav
+- 1 linux/builtin/cron
+- 1 linux/builtin/guacamole
+- 1 linux/builtin/modsecurity
+- 2 linux/builtin/sshd
+- 1 linux/builtin/sudo
+- 2 linux/builtin/syslog
+- 1 linux/builtin/vsftpd
 - 5 linux/file_event
-- 1 linux/modsecurity
 - 3 linux/network_connection
-- 8 linux/other
 - 61 linux/process_creation
 - 2 macos/file_event
 - 33 macos/process_creation
