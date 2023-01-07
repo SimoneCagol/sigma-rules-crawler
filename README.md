@@ -6,7 +6,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 
 
 ###### The last rule was uploaded / updated on:
-2023/01/06
+2023/01/07
 ###### The total of the rules present is:
 2591
 ###### Below we show the number of rules present divided by categories:
@@ -32,7 +32,6 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 linux/builtin/clamav
 - 1 linux/builtin/cron
 - 1 linux/builtin/guacamole
-- 1 linux/builtin/modsecurity
 - 2 linux/builtin/sshd
 - 1 linux/builtin/sudo
 - 2 linux/builtin/syslog
@@ -46,6 +45,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 12 network/dns
 - 6 network/firewall
 - 22 network/zeek
+- 1 product/modsecurity
 - 37 proxy
 - 65 web
 - 1 windows/builtin
