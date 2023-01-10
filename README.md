@@ -6,18 +6,18 @@ The project also performs a translation of the detection rules from the Sigma fo
 
 
 ###### The last rule was uploaded / updated on:
-2023/01/09
+2023/01/10
 ###### The total of the rules present is:
-2594
+2595
 ###### Below we show the number of rules present divided by categories:
-- 7 application/antivirus
-- 1 application/database
 - 1 application/django
 - 1 application/python
 - 17 application/rpc_firewall
 - 1 application/ruby
 - 1 application/spring
 - 1 application/sql
+- 7 category/antivirus
+- 1 category/database
 - 37 cloud/aws
 - 100 cloud/azure
 - 14 cloud/gcp
@@ -45,9 +45,10 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 12 network/dns
 - 6 network/firewall
 - 22 network/zeek
+- 2 product/apache
 - 1 product/modsecurity
 - 37 proxy
-- 65 web
+- 63 web
 - 1 windows/builtin
 - 19 windows/builtin/application
 - 1 windows/builtin/applocker
@@ -87,7 +88,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 17 windows/pipe_created
 - 15 windows/powershell/powershell_classic
 - 30 windows/powershell/powershell_module
-- 155 windows/powershell/powershell_script
+- 156 windows/powershell/powershell_script
 - 27 windows/process_access
 - 1010 windows/process_creation
 - 1 windows/raw_access_thread
