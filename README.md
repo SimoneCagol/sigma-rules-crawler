@@ -8,7 +8,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 ###### The last rule was uploaded / updated on:
 2023/01/11
 ###### The total of the rules present is:
-2597
+2601
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
 - 1 application/python
@@ -42,8 +42,12 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 2 macos/file_event
 - 33 macos/process_creation
 - 12 network/cisco/aaa
+- 1 network/cisco/bgp
+- 1 network/cisco/ldp
 - 12 network/dns
 - 6 network/firewall
+- 1 network/huawei/bgp
+- 1 network/juniper/bgp
 - 22 network/zeek
 - 2 product/apache
 - 1 product/modsecurity
