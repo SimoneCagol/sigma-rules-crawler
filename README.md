@@ -50,10 +50,10 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 network/huawei/bgp
 - 1 network/juniper/bgp
 - 22 network/zeek
-- 2 product/apache
-- 1 product/modsecurity
-- 37 proxy
-- 64 web
+- 2 web/product/apache
+- 1 web/product/modsecurity
+- 37 web/proxy_generic
+- 64 web/webserver_generic
 - 1 windows/builtin
 - 20 windows/builtin/application
 - 1 windows/builtin/applocker
