@@ -6,7 +6,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 
 
 ###### The last rule was uploaded / updated on:
-2023/02/06
+2023/02/08
 ###### The total of the rules present is:
 2662
 ###### Below we show the number of rules present divided by categories:
@@ -80,7 +80,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 windows/builtin/shell_core
 - 2 windows/builtin/smbclient
 - 64 windows/builtin/system
-- 3 windows/builtin/taskscheduler
+- 4 windows/builtin/taskscheduler
 - 1 windows/builtin/terminalservices
 - 11 windows/builtin/windefend
 - 1 windows/builtin/wmi
@@ -100,7 +100,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 32 windows/powershell/powershell_module
 - 160 windows/powershell/powershell_script
 - 27 windows/process_access
-- 1018 windows/process_creation
+- 1017 windows/process_creation
 - 1 windows/raw_access_thread
 - 10 windows/registry/registry_add
 - 6 windows/registry/registry_delete
