@@ -8,14 +8,17 @@ The project also performs a translation of the detection rules from the Sigma fo
 ###### The last rule was uploaded / updated on:
 2023/02/13
 ###### The total of the rules present is:
-2671
+2679
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
+- 5 application/jvm
+- 1 application/nodejs
 - 1 application/python
 - 17 application/rpc_firewall
 - 1 application/ruby
-- 1 application/spring
+- 2 application/spring
 - 1 application/sql
+- 1 application/velocity
 - 7 category/antivirus
 - 1 category/database
 - 37 cloud/aws
