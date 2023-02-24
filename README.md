@@ -8,7 +8,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 ###### The last rule was uploaded / updated on:
 2023/02/23
 ###### The total of the rules present is:
-2699
+2701
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
 - 5 application/jvm
@@ -94,7 +94,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 4 windows/file/file_access
 - 2 windows/file/file_change
 - 11 windows/file/file_delete
-- 131 windows/file/file_event
+- 133 windows/file/file_event
 - 2 windows/file/file_rename
 - 63 windows/image_load
 - 37 windows/network_connection
