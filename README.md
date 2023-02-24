@@ -8,7 +8,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 ###### The last rule was uploaded / updated on:
 2023/02/23
 ###### The total of the rules present is:
-2701
+2681
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
 - 5 application/jvm
@@ -77,33 +77,33 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 3 windows/builtin/ntlm
 - 1 windows/builtin/openssh
 - 2 windows/builtin/printservice
-- 152 windows/builtin/security
+- 144 windows/builtin/security
 - 2 windows/builtin/security_mitigations
 - 1 windows/builtin/servicebus
 - 1 windows/builtin/shell_core
-- 2 windows/builtin/smbclient
-- 64 windows/builtin/system
-- 4 windows/builtin/taskscheduler
+- 1 windows/builtin/smbclient
+- 63 windows/builtin/system
+- 3 windows/builtin/taskscheduler
 - 1 windows/builtin/terminalservices
 - 11 windows/builtin/windefend
 - 1 windows/builtin/wmi
 - 13 windows/create_remote_thread
 - 7 windows/create_stream_hash
-- 13 windows/dns_query
+- 12 windows/dns_query
 - 15 windows/driver_load
 - 4 windows/file/file_access
 - 2 windows/file/file_change
 - 11 windows/file/file_delete
 - 133 windows/file/file_event
 - 2 windows/file/file_rename
-- 63 windows/image_load
+- 62 windows/image_load
 - 37 windows/network_connection
 - 17 windows/pipe_created
 - 15 windows/powershell/powershell_classic
 - 32 windows/powershell/powershell_module
-- 160 windows/powershell/powershell_script
+- 158 windows/powershell/powershell_script
 - 27 windows/process_access
-- 1030 windows/process_creation
+- 1025 windows/process_creation
 - 1 windows/raw_access_thread
 - 9 windows/registry/registry_add
 - 6 windows/registry/registry_delete
