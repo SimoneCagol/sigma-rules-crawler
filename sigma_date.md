@@ -1,5 +1,6 @@
 |Title|Description|Path|Date|Link|
 | ------ | ------ | ------ | ------ | ------ |
+|New Firewall Exception Rule Added For A Suspicious Folder|Detects the addition of a rule to the Windows Firewall exception list where the application resides in a suspicious folder|windows/builtin/firewall_as|2023/02/26|[win_firewall_as_add_rule_susp_folder.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/builtin/firewall_as/win_firewall_as_add_rule_susp_folder.yml)|
 |Remote Code Execute via Winrm.vbs|Detects an attempt to execute code or create service on remote host via winrm.vbs.|windows/process_creation|2023/02/26|[proc_creation_win_susp_winrm_execution.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/process_creation/proc_creation_win_susp_winrm_execution.yml)|
 |Regsvr32 Anomaly|Detects various anomalies in relation to regsvr32.exe|windows/process_creation|2023/02/26|[proc_creation_win_regsvr32_anomalies.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/process_creation/proc_creation_win_regsvr32_anomalies.yml)|
 |Visual Basic Script Execution|Adversaries may abuse Visual Basic (VB) for execution|windows/process_creation|2023/02/26|[proc_creation_win_cscript_vbs.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/process_creation/proc_creation_win_cscript_vbs.yml)|
