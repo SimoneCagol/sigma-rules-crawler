@@ -6,9 +6,9 @@ The project also performs a translation of the detection rules from the Sigma fo
 
 
 ###### The last rule was uploaded / updated on:
-2023/03/23
+2023/03/24
 ###### The total of the rules present is:
-2694
+2695
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
 - 5 application/jvm
@@ -55,7 +55,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 22 network/zeek
 - 2 web/product/apache
 - 1 web/product/modsecurity
-- 37 web/proxy_generic
+- 38 web/proxy_generic
 - 66 web/webserver_generic
 - 1 windows/builtin
 - 20 windows/builtin/application
