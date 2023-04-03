@@ -6,9 +6,9 @@ The project also performs a translation of the detection rules from the Sigma fo
 
 
 ###### The last rule was uploaded / updated on:
-2023/03/31
+2023/04/03
 ###### The total of the rules present is:
-2703
+2680
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
 - 5 application/jvm
@@ -21,8 +21,8 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 application/velocity
 - 7 category/antivirus
 - 1 category/database
-- 37 cloud/aws
-- 101 cloud/azure
+- 29 cloud/aws
+- 100 cloud/azure
 - 14 cloud/gcp
 - 7 cloud/github
 - 6 cloud/gworkspace
@@ -30,9 +30,9 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 13 cloud/okta
 - 2 cloud/onelogin
 - 3 compliance
-- 53 linux/auditd
-- 18 linux/builtin
-- 2 linux/builtin/auth
+- 49 linux/auditd
+- 17 linux/builtin
+- 1 linux/builtin/auth
 - 1 linux/builtin/clamav
 - 1 linux/builtin/cron
 - 1 linux/builtin/guacamole
@@ -44,19 +44,18 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 3 linux/network_connection
 - 69 linux/process_creation
 - 2 macos/file_event
-- 41 macos/process_creation
+- 42 macos/process_creation
 - 12 network/cisco/aaa
 - 1 network/cisco/bgp
 - 1 network/cisco/ldp
-- 12 network/dns
-- 6 network/firewall
+- 7 network/dns
+- 2 network/firewall
 - 1 network/huawei/bgp
 - 1 network/juniper/bgp
-- 22 network/zeek
+- 21 network/zeek
 - 2 web/product/apache
-- 1 web/product/modsecurity
 - 40 web/proxy_generic
-- 66 web/webserver_generic
+- 65 web/webserver_generic
 - 1 windows/builtin
 - 20 windows/builtin/application
 - 1 windows/builtin/applocker
@@ -103,7 +102,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 32 windows/powershell/powershell_module
 - 158 windows/powershell/powershell_script
 - 27 windows/process_access
-- 1035 windows/process_creation
+- 1038 windows/process_creation
 - 1 windows/raw_access_thread
 - 9 windows/registry/registry_add
 - 6 windows/registry/registry_delete
