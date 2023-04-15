@@ -8,7 +8,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 ###### The last rule was uploaded / updated on:
 2023/04/14
 ###### The total of the rules present is:
-2689
+2691
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
 - 5 application/jvm
@@ -57,7 +57,16 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 40 web/proxy_generic
 - 65 web/webserver_generic
 - 1 windows/builtin
-- 20 windows/builtin/application
+- 2 windows/builtin/application/application_error
+- 2 windows/builtin/application/esent
+- 1 windows/builtin/application/microsoft-windows_audit_cve
+- 1 windows/builtin/application/microsoft_windows_backup
+- 1 windows/builtin/application/microsoft_windows_software_restriction_policies
+- 1 windows/builtin/application/msexchange_control_panel
+- 5 windows/builtin/application/msiinstaller
+- 6 windows/builtin/application/mssqlserver
+- 1 windows/builtin/application/Other
+- 1 windows/builtin/application/windows_error_reporting
 - 1 windows/builtin/applocker
 - 1 windows/builtin/appmodel_runtime
 - 7 windows/builtin/appxdeployment_server
@@ -76,13 +85,28 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 3 windows/builtin/ntlm
 - 1 windows/builtin/openssh
 - 2 windows/builtin/printservice
-- 139 windows/builtin/security
+- 140 windows/builtin/security
 - 2 windows/builtin/security_mitigations
 - 1 windows/builtin/servicebus
 - 1 windows/builtin/shell_core
 - 1 windows/builtin/smbclient/connectivity
 - 1 windows/builtin/smbclient/security
-- 63 windows/builtin/system
+- 1 windows/builtin/system/application_popup
+- 1 windows/builtin/system/kerberos_key_distribution_center
+- 1 windows/builtin/system/lsasrv
+- 2 windows/builtin/system/microsoft_windows_dhcp_server
+- 1 windows/builtin/system/microsoft_windows_directory_services_sam
+- 1 windows/builtin/system/microsoft_windows_distributed_com
+- 2 windows/builtin/system/microsoft_windows_eventlog
+- 1 windows/builtin/system/microsoft_windows_kerberos_key_distribution_center
+- 2 windows/builtin/system/microsoft_windows_kernel_general
+- 1 windows/builtin/system/microsoft_windows_ntfs
+- 1 windows/builtin/system/microsoft_windows_user_profiles_service
+- 1 windows/builtin/system/microsoft_windows_windows_update_client
+- 2 windows/builtin/system/netlogon
+- 1 windows/builtin/system/ntfs
+- 44 windows/builtin/system/service_control_manager
+- 1 windows/builtin/system/termdd
 - 3 windows/builtin/taskscheduler
 - 1 windows/builtin/terminalservices
 - 11 windows/builtin/windefend
