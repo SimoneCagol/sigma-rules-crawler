@@ -6,9 +6,9 @@ The project also performs a translation of the detection rules from the Sigma fo
 
 
 ###### The last rule was uploaded / updated on:
-2023/04/21
+2023/05/23
 ###### The total of the rules present is:
-2708
+2606
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
 - 5 application/jvm
@@ -27,7 +27,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 7 cloud/github
 - 6 cloud/gworkspace
 - 15 cloud/m365
-- 14 cloud/okta
+- 15 cloud/okta
 - 2 cloud/onelogin
 - 3 compliance
 - 49 linux/auditd
@@ -42,7 +42,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 linux/builtin/vsftpd
 - 5 linux/file_event
 - 3 linux/network_connection
-- 69 linux/process_creation
+- 76 linux/process_creation
 - 2 macos/file_event
 - 43 macos/process_creation
 - 12 network/cisco/aaa
@@ -54,9 +54,11 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 network/juniper/bgp
 - 21 network/zeek
 - 2 web/product/apache
-- 40 web/proxy_generic
-- 65 web/webserver_generic
+- 1 web/product/nginx
+- 38 web/proxy_generic
+- 12 web/webserver_generic
 - 1 windows/builtin
+- 1 windows/builtin/application/Other
 - 2 windows/builtin/application/application_error
 - 2 windows/builtin/application/esent
 - 1 windows/builtin/application/microsoft-windows_audit_cve
@@ -64,14 +66,16 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 windows/builtin/application/microsoft_windows_software_restriction_policies
 - 1 windows/builtin/application/msexchange_control_panel
 - 5 windows/builtin/application/msiinstaller
+- 1 windows/builtin/application/msmq
 - 6 windows/builtin/application/mssqlserver
-- 1 windows/builtin/application/Other
 - 1 windows/builtin/application/windows_error_reporting
 - 1 windows/builtin/applocker
 - 1 windows/builtin/appmodel_runtime
 - 7 windows/builtin/appxdeployment_server
 - 1 windows/builtin/appxpackaging_om
 - 7 windows/builtin/bits_client
+- 1 windows/builtin/capi2
+- 1 windows/builtin/certificate_services_client_lifecycle_system
 - 3 windows/builtin/code_integrity
 - 1 windows/builtin/diagnosis/scripted
 - 5 windows/builtin/dns_client
@@ -84,15 +88,13 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 8 windows/builtin/msexchange
 - 3 windows/builtin/ntlm
 - 1 windows/builtin/openssh
-- 2 windows/builtin/printservice
-- 140 windows/builtin/security
+- 119 windows/builtin/security
+- 18 windows/builtin/security/account_management
 - 2 windows/builtin/security_mitigations
 - 1 windows/builtin/servicebus
 - 1 windows/builtin/shell_core
-- 1 windows/builtin/smbclient/connectivity
 - 1 windows/builtin/smbclient/security
 - 1 windows/builtin/system/application_popup
-- 1 windows/builtin/system/kerberos_key_distribution_center
 - 1 windows/builtin/system/lsasrv
 - 2 windows/builtin/system/microsoft_windows_dhcp_server
 - 1 windows/builtin/system/microsoft_windows_directory_services_sam
@@ -109,29 +111,29 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 windows/builtin/system/termdd
 - 3 windows/builtin/taskscheduler
 - 1 windows/builtin/terminalservices
-- 11 windows/builtin/windefend
+- 12 windows/builtin/windefend
 - 1 windows/builtin/wmi
-- 13 windows/create_remote_thread
-- 8 windows/create_stream_hash
-- 14 windows/dns_query
-- 15 windows/driver_load
+- 11 windows/create_remote_thread
+- 9 windows/create_stream_hash
+- 13 windows/dns_query
+- 16 windows/driver_load
 - 4 windows/file/file_access
 - 2 windows/file/file_change
 - 11 windows/file/file_delete
-- 135 windows/file/file_event
+- 145 windows/file/file_event
 - 2 windows/file/file_rename
-- 67 windows/image_load
-- 37 windows/network_connection
+- 71 windows/image_load
+- 41 windows/network_connection
 - 17 windows/pipe_created
 - 15 windows/powershell/powershell_classic
 - 32 windows/powershell/powershell_module
-- 158 windows/powershell/powershell_script
+- 162 windows/powershell/powershell_script
 - 27 windows/process_access
-- 1054 windows/process_creation
+- 979 windows/process_creation
 - 1 windows/raw_access_thread
 - 9 windows/registry/registry_add
 - 6 windows/registry/registry_delete
-- 37 windows/registry/registry_event
-- 155 windows/registry/registry_set
+- 36 windows/registry/registry_event
+- 157 windows/registry/registry_set
 - 5 windows/sysmon
 - 3 windows/wmi_event
