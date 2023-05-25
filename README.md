@@ -58,7 +58,6 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 38 web/proxy_generic
 - 12 web/webserver_generic
 - 1 windows/builtin
-- 1 windows/builtin/application/Other
 - 2 windows/builtin/application/application_error
 - 2 windows/builtin/application/esent
 - 1 windows/builtin/application/microsoft-windows_audit_cve
@@ -68,6 +67,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 5 windows/builtin/application/msiinstaller
 - 1 windows/builtin/application/msmq
 - 6 windows/builtin/application/mssqlserver
+- 1 windows/builtin/application/Other
 - 1 windows/builtin/application/windows_error_reporting
 - 1 windows/builtin/applocker
 - 1 windows/builtin/appmodel_runtime
