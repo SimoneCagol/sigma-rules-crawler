@@ -8,7 +8,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 ###### The last rule was uploaded / updated on:
 2023/05/30
 ###### The total of the rules present is:
-2609
+2610
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
 - 5 application/jvm
@@ -79,7 +79,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 3 windows/builtin/code_integrity
 - 1 windows/builtin/diagnosis/scripted
 - 5 windows/builtin/dns_client
-- 1 windows/builtin/dns_server
+- 2 windows/builtin/dns_server
 - 1 windows/builtin/dns_server_analytic
 - 1 windows/builtin/driverframeworks
 - 8 windows/builtin/firewall_as
