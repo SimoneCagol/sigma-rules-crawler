@@ -120,9 +120,9 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 4 windows/file/file_access
 - 2 windows/file/file_change
 - 11 windows/file/file_delete
-- 145 windows/file/file_event
+- 146 windows/file/file_event
 - 2 windows/file/file_rename
-- 72 windows/image_load
+- 71 windows/image_load
 - 41 windows/network_connection
 - 17 windows/pipe_created
 - 15 windows/powershell/powershell_classic
