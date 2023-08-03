@@ -1,5 +1,6 @@
 |Title|Description|Path|Date|Link|
 | ------ | ------ | ------ | ------ | ------ |
+|Potential Amazon SSM Agent Hijacking|Detects potential Amazon SSM agent hijack attempts as outlined in the Mitiga research reoport.|windows/process_creation|2023/08/02|[proc_creation_win_ssm_agent_abuse.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/process_creation/proc_creation_win_ssm_agent_abuse.yml)|
 |Generic Password Dumper Activity on LSASS|Detects process handle on LSASS process with certain access mask|windows/builtin/security|2023/07/31|[win_security_susp_lsass_dump_generic.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/builtin/security/win_security_susp_lsass_dump_generic.yml)|
 |Data Compressed|An adversary may compress data (e.g., sensitive documents) that is collected prior to exfiltration in order to make it portable and minimize the amount of data sent over the network.|linux/auditd|2023/07/28|[lnx_auditd_data_compressed.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./linux/auditd/lnx_auditd_data_compressed.yml)|
 |VMMap Dbghelp.DLL Potential Sideloading|Detects potential DLL sideloading of dbghelp.dll by the Sysinternals VMMap.|windows/image_load|2023/07/28|[image_load_side_load_vmmap_dbghelp.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/image_load/image_load_side_load_vmmap_dbghelp.yml)|
