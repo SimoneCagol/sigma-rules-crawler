@@ -1,5 +1,6 @@
 |Title|Description|Path|Date|Link|
 | ------ | ------ | ------ | ------ | ------ |
+|Root Account Enable Via Dsenableroot|Detects attempts to enable the root account via "dsenableroot"|macos/process_creation|2023/08/22|[proc_creation_macos_dsenableroot_enable_root_account.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./macos/process_creation/proc_creation_macos_dsenableroot_enable_root_account.yml)|
 |Search-ms and WebDAV Suspicious Indicators in URL|Detects URL pattern used by search(-ms)/WebDAV initial access campaigns.|web/proxy_generic|2023/08/21|[proxy_webdav_search_ms.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./web/proxy_generic/proxy_webdav_search_ms.yml)|
 |Potentially Suspicious WebDAV LNK Execution|Detects possible execution via LNK file accessed on a WebDAV server.|windows/process_creation|2023/08/21|[proc_creation_win_webdav_lnk_execution.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/process_creation/proc_creation_win_webdav_lnk_execution.yml)|
 |BITS Transfer Job Download From File Sharing Domains|Detects BITS transfer job downloading files from a file sharing domain.|windows/builtin/bits_client|2023/08/17|[win_bits_client_new_transfer_via_file_sharing_domains.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/builtin/bits_client/win_bits_client_new_transfer_via_file_sharing_domains.yml)|
