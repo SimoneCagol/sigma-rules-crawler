@@ -6,9 +6,9 @@ The project also performs a translation of the detection rules from the Sigma fo
 
 
 ###### The last rule was uploaded / updated on:
-2023/09/15
+2023/09/18
 ###### The total of the rules present is:
-2776
+2778
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
 - 5 application/jvm
@@ -28,7 +28,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 14 cloud/gcp
 - 7 cloud/github
 - 6 cloud/gworkspace
-- 15 cloud/m365
+- 17 cloud/m365
 - 19 cloud/okta
 - 2 cloud/onelogin
 - 3 compliance
