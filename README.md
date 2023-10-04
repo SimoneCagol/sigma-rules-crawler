@@ -8,7 +8,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 ###### The last rule was uploaded / updated on:
 2023/09/29
 ###### The total of the rules present is:
-2782
+2766
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
 - 5 application/jvm
@@ -65,10 +65,8 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 windows/builtin/application/microsoft-windows_audit_cve
 - 1 windows/builtin/application/microsoft_windows_backup
 - 1 windows/builtin/application/microsoft_windows_software_restriction_policies
-- 1 windows/builtin/application/msexchange_control_panel
-- 5 windows/builtin/application/msiinstaller
-- 1 windows/builtin/application/msmq
-- 6 windows/builtin/application/mssqlserver
+- 4 windows/builtin/application/msiinstaller
+- 5 windows/builtin/application/mssqlserver
 - 1 windows/builtin/application/Other
 - 1 windows/builtin/application/windows_error_reporting
 - 1 windows/builtin/applocker
@@ -82,12 +80,11 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 windows/builtin/diagnosis/scripted
 - 5 windows/builtin/dns_client
 - 2 windows/builtin/dns_server
-- 1 windows/builtin/dns_server_analytic
 - 1 windows/builtin/driverframeworks
 - 8 windows/builtin/firewall_as
 - 1 windows/builtin/ldap
 - 1 windows/builtin/lsa_server
-- 8 windows/builtin/msexchange
+- 7 windows/builtin/msexchange
 - 3 windows/builtin/ntlm
 - 1 windows/builtin/openssh
 - 121 windows/builtin/security
@@ -109,7 +106,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 windows/builtin/system/microsoft_windows_windows_update_client
 - 2 windows/builtin/system/netlogon
 - 1 windows/builtin/system/ntfs
-- 48 windows/builtin/system/service_control_manager
+- 45 windows/builtin/system/service_control_manager
 - 1 windows/builtin/system/termdd
 - 3 windows/builtin/taskscheduler
 - 1 windows/builtin/terminalservices
@@ -117,25 +114,26 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 windows/builtin/wmi
 - 12 windows/create_remote_thread
 - 9 windows/create_stream_hash
-- 13 windows/dns_query
-- 16 windows/driver_load
+- 12 windows/dns_query
+- 12 windows/driver_load
 - 5 windows/file/file_access
 - 2 windows/file/file_change
 - 12 windows/file/file_delete
-- 150 windows/file/file_event
+- 145 windows/file/file_event
 - 2 windows/file/file_rename
-- 89 windows/image_load
+- 90 windows/image_load
 - 43 windows/network_connection
-- 17 windows/pipe_created
+- 16 windows/pipe_created
 - 15 windows/powershell/powershell_classic
 - 32 windows/powershell/powershell_module
 - 163 windows/powershell/powershell_script
 - 27 windows/process_access
-- 1028 windows/process_creation
+- 1031 windows/process_creation
+- 1 windows/process_tampering
 - 1 windows/raw_access_thread
 - 9 windows/registry/registry_add
 - 6 windows/registry/registry_delete
 - 37 windows/registry/registry_event
 - 171 windows/registry/registry_set
-- 7 windows/sysmon
+- 6 windows/sysmon
 - 3 windows/wmi_event
