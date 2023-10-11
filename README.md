@@ -6,9 +6,9 @@ The project also performs a translation of the detection rules from the Sigma fo
 
 
 ###### The last rule was uploaded / updated on:
-2023/10/10
+2023/10/11
 ###### The total of the rules present is:
-2776
+2781
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
 - 5 application/jvm
@@ -66,7 +66,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 windows/builtin/application/microsoft_windows_backup
 - 1 windows/builtin/application/microsoft_windows_software_restriction_policies
 - 4 windows/builtin/application/msiinstaller
-- 5 windows/builtin/application/mssqlserver
+- 7 windows/builtin/application/mssqlserver
 - 1 windows/builtin/application/Other
 - 2 windows/builtin/application/screenconnect
 - 1 windows/builtin/application/windows_error_reporting
@@ -100,7 +100,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 windows/builtin/system/microsoft_windows_directory_services_sam
 - 1 windows/builtin/system/microsoft_windows_distributed_com
 - 2 windows/builtin/system/microsoft_windows_eventlog
-- 1 windows/builtin/system/microsoft_windows_kerberos_key_distribution_center
+- 2 windows/builtin/system/microsoft_windows_kerberos_key_distribution_center
 - 2 windows/builtin/system/microsoft_windows_kernel_general
 - 1 windows/builtin/system/microsoft_windows_ntfs
 - 1 windows/builtin/system/microsoft_windows_user_profiles_service
@@ -120,7 +120,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 5 windows/file/file_access
 - 2 windows/file/file_change
 - 12 windows/file/file_delete
-- 146 windows/file/file_event
+- 147 windows/file/file_event
 - 2 windows/file/file_rename
 - 90 windows/image_load
 - 44 windows/network_connection
@@ -129,7 +129,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 32 windows/powershell/powershell_module
 - 163 windows/powershell/powershell_script
 - 27 windows/process_access
-- 1036 windows/process_creation
+- 1037 windows/process_creation
 - 1 windows/process_tampering
 - 1 windows/raw_access_thread
 - 9 windows/registry/registry_add
