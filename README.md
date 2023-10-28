@@ -6,9 +6,9 @@ The project also performs a translation of the detection rules from the Sigma fo
 
 
 ###### The last rule was uploaded / updated on:
-2023/10/23
+2023/10/27
 ###### The total of the rules present is:
-2787
+2796
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
 - 5 application/jvm
@@ -19,7 +19,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 2 application/spring
 - 1 application/sql
 - 1 application/velocity
-- 7 category/antivirus
+- 6 category/antivirus
 - 1 category/database
 - 33 cloud/aws/cloudtrail
 - 43 cloud/azure/activity_logs
@@ -34,7 +34,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 cloud/m365/exchange
 - 1 cloud/m365/threat_detection
 - 13 cloud/m365/threat_management
-- 19 cloud/okta
+- 21 cloud/okta
 - 2 cloud/onelogin
 - 3 compliance
 - 49 linux/auditd
@@ -120,12 +120,12 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 windows/builtin/wmi
 - 12 windows/create_remote_thread
 - 9 windows/create_stream_hash
-- 12 windows/dns_query
+- 13 windows/dns_query
 - 12 windows/driver_load
 - 5 windows/file/file_access
 - 2 windows/file/file_change
 - 12 windows/file/file_delete
-- 148 windows/file/file_event
+- 150 windows/file/file_event
 - 2 windows/file/file_rename
 - 90 windows/image_load
 - 44 windows/network_connection
@@ -134,7 +134,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 32 windows/powershell/powershell_module
 - 163 windows/powershell/powershell_script
 - 27 windows/process_access
-- 1040 windows/process_creation
+- 1045 windows/process_creation
 - 1 windows/process_tampering
 - 1 windows/raw_access_thread
 - 9 windows/registry/registry_add
