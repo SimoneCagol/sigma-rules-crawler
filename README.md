@@ -6,9 +6,9 @@ The project also performs a translation of the detection rules from the Sigma fo
 
 
 ###### The last rule was uploaded / updated on:
-2023/10/27
+2023/10/29
 ###### The total of the rules present is:
-2796
+2798
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
 - 5 application/jvm
@@ -21,7 +21,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 application/velocity
 - 6 category/antivirus
 - 1 category/database
-- 33 cloud/aws/cloudtrail
+- 34 cloud/aws/cloudtrail
 - 43 cloud/azure/activity_logs
 - 33 cloud/azure/audit_logs
 - 19 cloud/azure/identity_protection
@@ -127,7 +127,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 12 windows/file/file_delete
 - 150 windows/file/file_event
 - 2 windows/file/file_rename
-- 90 windows/image_load
+- 91 windows/image_load
 - 44 windows/network_connection
 - 17 windows/pipe_created
 - 15 windows/powershell/powershell_classic
