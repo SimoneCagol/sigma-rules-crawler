@@ -6,7 +6,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 
 
 ###### The last rule was uploaded / updated on:
-2024/01/05
+2024/01/10
 ###### The total of the rules present is:
 2829
 ###### Below we show the number of rules present divided by categories:
@@ -127,7 +127,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 12 windows/file/file_delete
 - 148 windows/file/file_event
 - 1 windows/file/file_rename
-- 90 windows/image_load
+- 89 windows/image_load
 - 47 windows/network_connection
 - 17 windows/pipe_created
 - 14 windows/powershell/powershell_classic
@@ -140,6 +140,6 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 9 windows/registry/registry_add
 - 6 windows/registry/registry_delete
 - 37 windows/registry/registry_event
-- 179 windows/registry/registry_set
+- 180 windows/registry/registry_set
 - 6 windows/sysmon
 - 3 windows/wmi_event
