@@ -8,7 +8,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 ###### The last rule was uploaded / updated on:
 2024/02/26
 ###### The total of the rules present is:
-2836
+2850
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
 - 5 application/jvm
@@ -27,6 +27,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 19 cloud/azure/identity_protection
 - 7 cloud/azure/privileged_identity_management
 - 24 cloud/azure/signin_logs
+- 14 cloud/bitbucket/audit
 - 16 cloud/gcp/audit
 - 7 cloud/gcp/gworkspace
 - 7 cloud/github
