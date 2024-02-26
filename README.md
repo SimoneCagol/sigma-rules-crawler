@@ -8,7 +8,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 ###### The last rule was uploaded / updated on:
 2024/02/26
 ###### The total of the rules present is:
-2850
+2840
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
 - 5 application/jvm
@@ -21,7 +21,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 application/velocity
 - 6 category/antivirus
 - 1 category/database
-- 34 cloud/aws/cloudtrail
+- 35 cloud/aws/cloudtrail
 - 43 cloud/azure/activity_logs
 - 33 cloud/azure/audit_logs
 - 19 cloud/azure/identity_protection
@@ -63,7 +63,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 21 network/zeek
 - 2 web/product/apache
 - 1 web/product/nginx
-- 40 web/proxy_generic
+- 28 web/proxy_generic
 - 13 web/webserver_generic
 - 1 windows/builtin
 - 2 windows/builtin/application/application_error
@@ -122,7 +122,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 windows/builtin/wmi
 - 11 windows/create_remote_thread
 - 9 windows/create_stream_hash
-- 15 windows/dns_query
+- 16 windows/dns_query
 - 10 windows/driver_load
 - 6 windows/file/file_access
 - 2 windows/file/file_change
