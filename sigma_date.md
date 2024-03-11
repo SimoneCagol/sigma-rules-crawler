@@ -1,5 +1,6 @@
 |Title|Description|Path|Date|Link|
 | ------ | ------ | ------ | ------ | ------ |
+|Renamed NirCmd.EXE Execution|Detects the execution of a renamed "NirCmd.exe" binary based on the PE metadata fields.|windows/process_creation|2024/03/11|[proc_creation_win_renamed_nircmd.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./windows/process_creation/proc_creation_win_renamed_nircmd.yml)|
 |OpenCanary - VNC Connection Attempt|Detects instances where a VNC service on an OpenCanary node has had a connection attempt.|application/opencanary|2024/03/08|[opencanary_vnc_connection_attempt.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./application/opencanary/opencanary_vnc_connection_attempt.yml)|
 |OpenCanary - TFTP Request|Detects instances where a TFTP service on an OpenCanary node has had a request.|application/opencanary|2024/03/08|[opencanary_tftp_request.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./application/opencanary/opencanary_tftp_request.yml)|
 |OpenCanary - Telnet Login Attempt|Detects instances where a Telnet service on an OpenCanary node has had a login attempt.|application/opencanary|2024/03/08|[opencanary_telnet_login_attempt.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/./application/opencanary/opencanary_telnet_login_attempt.yml)|
