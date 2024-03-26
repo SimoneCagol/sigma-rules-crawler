@@ -6,9 +6,9 @@ The project also performs a translation of the detection rules from the Sigma fo
 
 
 ###### The last rule was uploaded / updated on:
-2024/03/22
+2024/03/26
 ###### The total of the rules present is:
-2866
+2861
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
 - 5 application/jvm
@@ -144,7 +144,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 windows/raw_access_thread
 - 9 windows/registry/registry_add
 - 6 windows/registry/registry_delete
-- 37 windows/registry/registry_event
-- 181 windows/registry/registry_set
+- 36 windows/registry/registry_event
+- 177 windows/registry/registry_set
 - 6 windows/sysmon
 - 3 windows/wmi_event
