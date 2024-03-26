@@ -140,12 +140,12 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 32 windows/powershell/powershell_module
 - 159 windows/powershell/powershell_script
 - 22 windows/process_access
-- 1075 windows/process_creation
+- 1074 windows/process_creation
 - 1 windows/process_tampering
 - 1 windows/raw_access_thread
 - 9 windows/registry/registry_add
 - 6 windows/registry/registry_delete
 - 36 windows/registry/registry_event
-- 177 windows/registry/registry_set
+- 178 windows/registry/registry_set
 - 6 windows/sysmon
 - 3 windows/wmi_event
