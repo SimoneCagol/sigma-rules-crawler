@@ -55,7 +55,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 4 linux/network_connection
 - 103 linux/process_creation
 - 2 macos/file_event
-- 56 macos/process_creation
+- 57 macos/process_creation
 - 12 network/cisco/aaa
 - 1 network/cisco/bgp
 - 1 network/cisco/ldp
@@ -141,7 +141,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 32 windows/powershell/powershell_module
 - 160 windows/powershell/powershell_script
 - 22 windows/process_access
-- 1079 windows/process_creation
+- 1078 windows/process_creation
 - 1 windows/process_tampering
 - 1 windows/raw_access_thread
 - 9 windows/registry/registry_add
