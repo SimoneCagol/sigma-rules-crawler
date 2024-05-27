@@ -8,7 +8,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 ###### The last rule was uploaded / updated on:
 2024/05/27
 ###### The total of the rules present is:
-2889
+2891
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
 - 5 application/jvm
@@ -131,7 +131,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 7 windows/file/file_access
 - 2 windows/file/file_change
 - 12 windows/file/file_delete
-- 149 windows/file/file_event
+- 150 windows/file/file_event
 - 1 windows/file/file_executable_detected
 - 1 windows/file/file_rename
 - 90 windows/image_load
@@ -141,7 +141,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 32 windows/powershell/powershell_module
 - 160 windows/powershell/powershell_script
 - 22 windows/process_access
-- 1078 windows/process_creation
+- 1079 windows/process_creation
 - 1 windows/process_tampering
 - 1 windows/raw_access_thread
 - 9 windows/registry/registry_add
