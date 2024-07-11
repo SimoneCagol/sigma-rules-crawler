@@ -8,11 +8,11 @@ The project also performs a translation of the detection rules from the Sigma fo
 ###### The last rule was uploaded / updated on:
 2024/07/11
 ###### The total of the rules present is:
-2917
+2922
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
 - 5 application/jvm
-- 10 application/kubernetes/audit
+- 15 application/kubernetes/audit
 - 1 application/nodejs
 - 18 application/opencanary
 - 1 application/python
