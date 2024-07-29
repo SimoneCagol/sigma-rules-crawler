@@ -6,9 +6,9 @@ The project also performs a translation of the detection rules from the Sigma fo
 
 
 ###### The last rule was uploaded / updated on:
-2024/07/23
+2024/07/29
 ###### The total of the rules present is:
-2926
+2930
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
 - 5 application/jvm
@@ -33,7 +33,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 cloud/cisco/duo
 - 16 cloud/gcp/audit
 - 7 cloud/gcp/gworkspace
-- 10 cloud/github
+- 13 cloud/github
 - 2 cloud/m365/audit
 - 1 cloud/m365/exchange
 - 1 cloud/m365/threat_detection
@@ -124,7 +124,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 windows/builtin/terminalservices
 - 16 windows/builtin/windefend
 - 1 windows/builtin/wmi
-- 11 windows/create_remote_thread
+- 12 windows/create_remote_thread
 - 9 windows/create_stream_hash
 - 17 windows/dns_query
 - 10 windows/driver_load
