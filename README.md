@@ -8,7 +8,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 ###### The last rule was uploaded / updated on:
 2024-09-02
 ###### The total of the rules present is:
-2961
+2958
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
 - 5 application/jvm
@@ -41,7 +41,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 21 cloud/okta
 - 2 cloud/onelogin
 - 3 compliance
-- 49 linux/auditd
+- 48 linux/auditd
 - 17 linux/builtin
 - 1 linux/builtin/auth
 - 1 linux/builtin/clamav
@@ -98,7 +98,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 3 windows/builtin/ntlm
 - 1 windows/builtin/openssh
 - 122 windows/builtin/security
-- 18 windows/builtin/security/account_management
+- 17 windows/builtin/security/account_management
 - 2 windows/builtin/security_mitigations
 - 1 windows/builtin/security/object_access
 - 1 windows/builtin/servicebus
@@ -147,6 +147,6 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 8 windows/registry/registry_add
 - 7 windows/registry/registry_delete
 - 33 windows/registry/registry_event
-- 187 windows/registry/registry_set
+- 186 windows/registry/registry_set
 - 6 windows/sysmon
 - 3 windows/wmi_event
