@@ -8,7 +8,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 ###### The last rule was uploaded / updated on:
 2024-09-02
 ###### The total of the rules present is:
-2960
+2961
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
 - 5 application/jvm
@@ -135,7 +135,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 windows/file/file_executable_detected
 - 1 windows/file/file_rename
 - 93 windows/image_load
-- 48 windows/network_connection
+- 49 windows/network_connection
 - 17 windows/pipe_created
 - 14 windows/powershell/powershell_classic
 - 33 windows/powershell/powershell_module
