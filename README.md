@@ -6,9 +6,9 @@ The project also performs a translation of the detection rules from the Sigma fo
 
 
 ###### The last rule was uploaded / updated on:
-2024-08-29
+2024-09-02
 ###### The total of the rules present is:
-2949
+2960
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
 - 5 application/jvm
@@ -53,7 +53,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 linux/builtin/vsftpd
 - 7 linux/file_event
 - 5 linux/network_connection
-- 103 linux/process_creation
+- 114 linux/process_creation
 - 2 macos/file_event
 - 65 macos/process_creation
 - 12 network/cisco/aaa
