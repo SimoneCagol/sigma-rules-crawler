@@ -6,7 +6,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 
 
 ###### The last rule was uploaded / updated on:
-2025-02-26
+2025-03-03
 ###### The total of the rules present is:
 2985
 ###### Below we show the number of rules present divided by categories:
