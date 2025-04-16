@@ -6,9 +6,9 @@ The project also performs a translation of the detection rules from the Sigma fo
 
 
 ###### The last rule was uploaded / updated on:
-2025-03-17
+2025-04-12
 ###### The total of the rules present is:
-2986
+2987
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
 - 5 application/jvm
@@ -142,7 +142,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 33 windows/powershell/powershell_module
 - 162 windows/powershell/powershell_script
 - 21 windows/process_access
-- 1102 windows/process_creation
+- 1103 windows/process_creation
 - 1 windows/process_tampering
 - 1 windows/raw_access_thread
 - 8 windows/registry/registry_add
