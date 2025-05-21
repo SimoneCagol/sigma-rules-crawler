@@ -6,9 +6,9 @@ The project also performs a translation of the detection rules from the Sigma fo
 
 
 ###### The last rule was uploaded / updated on:
-2025-05-06
+2025-05-12
 ###### The total of the rules present is:
-2988
+2989
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
 - 5 application/jvm
@@ -116,6 +116,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 1 windows/builtin/system/microsoft_windows_kernel_general
 - 1 windows/builtin/system/microsoft_windows_ntfs
 - 1 windows/builtin/system/microsoft_windows_user_profiles_service
+- 1 windows/builtin/system/microsoft_windows_wer_systemerrorreporting
 - 1 windows/builtin/system/microsoft_windows_windows_update_client
 - 2 windows/builtin/system/netlogon
 - 1 windows/builtin/system/ntfs
