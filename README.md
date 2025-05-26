@@ -6,9 +6,9 @@ The project also performs a translation of the detection rules from the Sigma fo
 
 
 ###### The last rule was uploaded / updated on:
-2025-05-12
+2025-05-22
 ###### The total of the rules present is:
-2989
+2992
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
 - 5 application/jvm
@@ -98,7 +98,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 7 windows/builtin/msexchange
 - 3 windows/builtin/ntlm
 - 1 windows/builtin/openssh
-- 123 windows/builtin/security
+- 124 windows/builtin/security
 - 17 windows/builtin/security/account_management
 - 2 windows/builtin/security_mitigations
 - 1 windows/builtin/security/object_access
@@ -130,7 +130,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 9 windows/create_stream_hash
 - 18 windows/dns_query
 - 10 windows/driver_load
-- 6 windows/file/file_access
+- 7 windows/file/file_access
 - 2 windows/file/file_change
 - 13 windows/file/file_delete
 - 156 windows/file/file_event
@@ -143,7 +143,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 33 windows/powershell/powershell_module
 - 161 windows/powershell/powershell_script
 - 21 windows/process_access
-- 1105 windows/process_creation
+- 1106 windows/process_creation
 - 1 windows/process_tampering
 - 1 windows/raw_access_thread
 - 8 windows/registry/registry_add
