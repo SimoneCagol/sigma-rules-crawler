@@ -8,7 +8,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 ###### The last rule was uploaded / updated on:
 2025-06-16
 ###### The total of the rules present is:
-3004
+3008
 ###### Below we show the number of rules present divided by categories:
 - 1 application/django
 - 5 application/jvm
@@ -55,7 +55,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 5 linux/network_connection
 - 113 linux/process_creation
 - 2 macos/file_event
-- 65 macos/process_creation
+- 67 macos/process_creation
 - 12 network/cisco/aaa
 - 1 network/cisco/bgp
 - 1 network/cisco/ldp
@@ -143,7 +143,7 @@ The project also performs a translation of the detection rules from the Sigma fo
 - 33 windows/powershell/powershell_module
 - 161 windows/powershell/powershell_script
 - 21 windows/process_access
-- 1110 windows/process_creation
+- 1112 windows/process_creation
 - 1 windows/process_tampering
 - 1 windows/raw_access_thread
 - 8 windows/registry/registry_add
